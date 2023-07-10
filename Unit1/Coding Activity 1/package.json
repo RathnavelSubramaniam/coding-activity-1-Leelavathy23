@@ -1,0 +1,14 @@
+{
+  "name": "coding-activity-1",
+  "version": "1.0.0",
+  "description": "Coding activity",
+  "main": "simple-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leelavathy.L",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
